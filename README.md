@@ -9,7 +9,7 @@ In the project, I built a “Pac Man” which will travel from one side of the s
 
 <h2>Installation.</h2>
 
-Download the whole git as a zip file. And double click on index.html to run the program. 
+Download the whole git as a zip file. And double click on index.html to run the program. One can clone the repository as will if some one wants to start adding new features to the project.  
 
 <h2>Future improvement </h2>
 
